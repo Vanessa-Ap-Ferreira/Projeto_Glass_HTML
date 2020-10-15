@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Bruno e Vanessa\\Desktop\\html_youtube\\curso-html5-pacote01\\projeto-glass-html5\\index.html"
+        }
+    ]
+}
